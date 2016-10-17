@@ -1,6 +1,6 @@
 {
   "name": "express-twitter-sse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "author": "Julien Bouquillon <julien@bouquillon.com>",
   "license": "MIT",
