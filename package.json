@@ -1,6 +1,6 @@
 {
   "name": "express-twitter-sse",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "author": "Julien Bouquillon <julien@bouquillon.com>",
   "description": "Fetch a single realtime stream from [twitter stream API](https://dev.twitter.com/streaming/public) and forward it to many clients using [SSE (Server Sent Events)](https://developer.mozilla.org/fr/docs/Server-sent_events).",
