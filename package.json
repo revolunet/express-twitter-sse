@@ -2,7 +2,20 @@
   "name": "express-twitter-sse",
   "version": "1.0.0",
   "main": "index.js",
+  "author": "Julien Bouquillon <julien@bouquillon.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/revolunet/express-twitter-sse.git"
+  },
+  "keywords": [
+    "twitter",
+    "api",
+    "stream",
+    "streaming",
+    "sse",
+    "eventsource"
+  ],
   "devDependencies": {
     "express": "^4.14.0"
   },
